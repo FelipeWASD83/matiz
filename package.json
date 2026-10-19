@@ -1,0 +1,10 @@
+{
+  "name": "matiz",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Matiz: filtro de cor e tom na tela inteira, para qualquer jogo, sem injetar nada.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
